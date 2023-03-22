@@ -1,0 +1,2 @@
+.App{flex-direction:column;text-align:center;grid-gap:15px;gap:15px}.App,.Carousel{display:flex;justify-content:center}.Carousel{align-items:center;grid-gap:5px;gap:5px}.Carousel__list-container{border:1px solid grey;border-radius:50px;overflow:hidden}.Carousel__list{display:flex;padding:0;list-style:none}.Carousel__image{display:block}.Carousel__button{display:block;width:20px;height:50px}.Form{margin:0 auto}.Form__label{display:flex;justify-content:space-between;margin-bottom:10px}.Form__input{width:70px}
+/*# sourceMappingURL=main.44c5c8f8.chunk.css.map */
